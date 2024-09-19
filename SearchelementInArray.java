@@ -8,6 +8,7 @@ public class SearchelementInArray {
         int arr[]={10,20,30,40,50};
         //Githum auto build
         System.out.println("Change1");
+        System.out.println("Change2");
         System.out.println(isFound(arr,0,50)?"Found":"Not Found");
     }
 }
