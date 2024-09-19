@@ -6,9 +6,11 @@ public class SearchelementInArray {
     }
     public static void main(String[] args) {
         int arr[]={10,20,30,40,50};
-        //Githum auto build
+        //Github auto build
         System.out.println("Change1");
         System.out.println("Change2");
+        //Email notify on job failure
+        System.out.println("Change2")
         System.out.println(isFound(arr,0,50)?"Found":"Not Found");
     }
 }
